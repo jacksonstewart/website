@@ -1,3 +1,3 @@
-# Jack Steven's Website
+# Jack Stevens' Website
 
 This is my Website.
